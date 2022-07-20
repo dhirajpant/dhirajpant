@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Pant</h1>
 <h3 align="center">A passionate Programmer from Nepal</h3>
-<img align= "right" alt="coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">	
+<img align= "right" alt="coding" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">	
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajpant&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajpant" /> </p>
 
