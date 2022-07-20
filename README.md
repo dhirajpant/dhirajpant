@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **official.dhirajpant@gmail.com**
 
-- ⚡ Fun fact **Coding is simple. It just takes a genius to understand its simplicity.**
+- ⚡ Fun fact **: Coding is simple. It just takes a genius to understand its simplicity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
