@@ -1,5 +1,4 @@
-
-<h1align="center">Hi 👋, I'm Dhiraj Pant</h1>
+<h1 align="center">Hi 👋, I'm Dhiraj Pant</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
 
