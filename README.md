@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhirajpant" alt="dhirajpant" /></a> </p>
 
 - 📫 How to reach me **dhirajpant.ad@gmail.com**
+- -![image](https://github.com/dhirajpant/dhirajpant/assets/142327590/b22ce301-d3ae-4aa8-ba5a-c5ceaa0e2ef8)
+ My Portfolio Website **https://www.dhirajpant.com.np**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
