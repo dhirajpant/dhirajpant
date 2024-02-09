@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Pant</h1>
-<h3 align="center">Data Science Enthusiast</h3>
+<h3 align="center">Data Science & ML Enthusiast</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajpant&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajpant" /> </p>
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://kaggle.com/dhirajpant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhirajpant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhiraj-pant-283b9a271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiraj-pant-283b9a271/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhirajpant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhirajpant/" height="30" width="40" /></a>
 <a href="https://medium.com/@dhirajpant.ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhirajpant.ad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22399064/dhiraj-pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhiraj-pant" height="30" width="40" /></a>
 <a href="https://twitter.com/dhirajpant_np" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhirajpant_np" height="30" width="40" /></a>
