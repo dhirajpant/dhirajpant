@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajpant&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajpant" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dhirajj_pant" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajj_pant?logo=twitter&style=for-the-badge" alt="dhirajj_pant" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dhirajpant_np" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajj_pant?logo=twitter&style=for-the-badge" alt="dhirajpant_np" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhirajpant" alt="dhirajpant" /></a> </p>
 
 - 📫 How to reach me **dhirajpant.ad@gmail.com**
@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/dhiraj-pant-283b9a271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiraj-pant-283b9a271/" height="30" width="40" /></a>
 <a href="https://medium.com/@dhirajpant.ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhirajpant.ad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22399064/dhiraj-pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhiraj-pant" height="30" width="40" /></a>
-<a href="https://twitter.com/dhirajj_pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhirajj_pant" height="30" width="40" /></a>
+<a href="https://twitter.com/dhirajpant_np" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhirajpant_np" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
