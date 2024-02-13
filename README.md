@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **dhirajpant.ad@gmail.com**
 - 🌐 My Portfolio Website **https://www.dhirajpant.com.np**
+- I am currently learning **Deep Learning**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
