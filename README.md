@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/dhirajpant_np" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajj_pant?logo=twitter&style=for-the-badge" alt="dhirajpant_np" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhirajpant" alt="dhirajpant" /></a> </p>
 
-- 📫 How to reach me **dhirajpant.ad@gmail.com**
+- 📫 How to reach me **official.dhirajpant@gmail.com**
 - 🌐 My Portfolio Website **https://www.dhirajpant.com.np**
 - I am currently learning **Deep Learning**
 
