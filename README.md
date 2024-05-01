@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **official.dhirajpant@gmail.com**
 - 🌐 My Portfolio Website **https://www.dhirajpant.com.np**
-- I am currently learning **Deep Learning**
+- I am currently learning **LLMs**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
